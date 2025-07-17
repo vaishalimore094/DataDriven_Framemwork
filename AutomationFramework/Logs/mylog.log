@@ -1,0 +1,131 @@
+[INFO ] 2023-12-24 15:23:02.258 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 15:23:04.265 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-24 15:23:06.278 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-24 15:23:06.390 [main] AutomationFreamwork - VerifyLogin,Passed
+[INFO ] 2023-12-24 17:20:32.694 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 17:20:46.579 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 17:27:37.356 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 17:28:35.971 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 17:30:52.245 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 17:36:15.648 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 17:48:59.962 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 17:55:49.068 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-24 18:01:05.196 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 10:40:51.653 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 10:48:48.403 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 10:50:36.131 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 10:58:37.027 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 10:58:40.464 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-25 10:58:42.864 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-25 10:58:43.096 [main] AutomationFreamwork - VerifyLogin,failed
+[INFO ] 2023-12-25 11:04:35.645 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 11:04:39.162 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-25 11:04:42.241 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-25 11:04:42.434 [main] AutomationFreamwork - VerifyLogin,failed
+[INFO ] 2023-12-25 14:03:51.356 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:07:51.885 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:10:13.350 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:12:09.958 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:21:39.602 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:28:56.662 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:30:25.615 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:32:02.383 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 14:35:37.225 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 15:22:34.773 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 15:34:29.269 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 15:37:46.657 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 15:41:27.609 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 15:46:55.758 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 15:49:49.483 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 15:55:50.292 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:03:43.056 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:04:59.690 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:06:08.436 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:16:55.137 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:20:23.813 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:27:19.844 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:31:50.657 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:36:58.845 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:42:29.869 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:47:13.618 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:50:35.661 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:52:02.500 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:53:22.044 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:54:31.324 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 16:57:52.594 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 17:01:06.566 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 17:16:06.466 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 17:23:04.345 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 17:24:27.269 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 17:30:38.794 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 23:20:59.628 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-25 23:33:15.801 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-26 09:51:59.650 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-26 09:52:02.898 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-26 09:52:04.318 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-26 09:55:47.222 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-26 09:55:49.025 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-26 09:55:50.879 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-26 09:55:51.007 [main] AutomationFreamwork - VerifyLogin,failed
+[INFO ] 2023-12-26 09:56:49.362 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-26 09:56:50.811 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-26 09:56:52.598 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-26 09:56:52.680 [main] AutomationFreamwork - VerifyLogin,Passed
+[INFO ] 2023-12-26 10:00:14.069 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-26 10:00:15.456 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-26 10:00:17.438 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-26 10:00:17.587 [main] AutomationFreamwork - VerifyLogin,Passed
+[INFO ] 2023-12-26 10:08:37.533 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-26 10:08:39.111 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-26 10:08:40.917 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-26 10:08:41.012 [main] AutomationFreamwork - VerifyLogin,Passed
+[INFO ] 2023-12-26 10:26:57.469 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-26 10:34:08.969 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:04:02.550 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:12:47.366 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:15:00.809 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:18:02.260 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:33:01.975 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:33:04.052 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-31 00:33:05.850 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-31 00:33:05.958 [main] AutomationFreamwork - VerifyLogin,Passed
+[INFO ] 2023-12-31 00:35:17.236 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:37:21.903 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:51:49.692 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:52:43.596 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 00:57:16.973 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:06:05.298 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:08:34.775 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:09:40.822 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:11:32.560 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:32:36.834 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:41:32.779 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:47:07.895 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:47:51.313 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:47:52.730 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-31 01:47:54.722 [main] AutomationFreamwork - Clickon signin button
+[INFO ] 2023-12-31 01:47:54.831 [main] AutomationFreamwork - VerifyLogin,Passed
+[INFO ] 2023-12-31 01:49:46.302 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:51:38.869 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:55:39.960 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:56:56.682 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:58:17.558 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:59:28.456 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 01:59:30.535 [main] AutomationFreamwork - Clickon signUP button
+[INFO ] 2023-12-31 02:00:13.871 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 02:01:17.064 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 02:05:25.088 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 02:06:57.297 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 11:13:19.637 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:20:25.404 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:21:49.505 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:26:56.043 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:31:06.226 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:41:13.577 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:44:10.857 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:50:38.725 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 12:56:12.045 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 13:04:27.298 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 13:08:15.608 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 13:11:44.190 [main] AutomationFreamwork - url opened
+[INFO ] 2023-12-31 13:36:09.484 [main] AutomationFreamwork - url opened
